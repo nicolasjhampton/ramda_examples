@@ -1,0 +1,25 @@
+{
+  "name": "ramda_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasjhampton/ramda_examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasjhampton/ramda_examples/issues"
+  },
+  "homepage": "https://github.com/nicolasjhampton/ramda_examples#readme",
+  "dependencies": {
+    "jest": "^22.4.3",
+    "node-fetch": "^2.1.2",
+    "ramda": "^0.25.0"
+  }
+}
